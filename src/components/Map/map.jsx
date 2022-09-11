@@ -1,4 +1,5 @@
-
+import GoogleMapReact from 'google-map-react';
+import { Paper, Typography, useMediaQuery } from '@material-ui/core';
 
 const Map = () => {
     return (
